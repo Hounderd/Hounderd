@@ -2,10 +2,6 @@
 
 AI and Systems Engineer based in Watertown, WI. I build what I can't find off the shelf.
 
-Currently at **TELUS Digital** doing AI data engineering: RLHF workflows, LLM evaluation, and large-scale dataset validation. Before that, 9 years as a lead web developer and solution architect. US Army veteran.
-
-Always building something. Right now it's a port of my open-source smart thermostat to the **Arduino UNO Q** for the Hackster 2026 contest.
-
 ---
 
 ## 🔧 Featured Projects
