@@ -1,4 +1,4 @@
-# Hey, I'm Donovan 👋
+# Hey, I'm Donovan
 
 AI and systems engineer based in Wisconsin. I build tools, utilities, and automation for problems that annoy me enough to deserve a better answer.
 
@@ -13,6 +13,16 @@ AI and systems engineer based in Wisconsin. I build tools, utilities, and automa
 | [sentinel-watch](https://github.com/Hounderd/sentinel-watch) | LAN uptime monitor with latency tracking, webhook alerts, and per-device heatmaps |
 | [llm-eval-harness](https://github.com/Hounderd/llm-eval-harness) | Batch LLM evaluation pipeline for correctness, coherence, and safety scoring |
 | [spt-fika-autoupdater](https://github.com/Hounderd/spt-fika-autoupdater) | Update utility for SPT-Fika offline Tarkov environments |
+
+---
+
+## UI Showcase
+
+<p align="center">
+  <img src="https://download.nodd.dev/instant-replay-guard-screenshot-v2.png" width="31%" alt="Instant Replay Guard screenshot" />
+  <img src="https://download.nodd.dev/sentinel-watch-screenshot.png" width="31%" alt="SentinelWatch screenshot" />
+  <img src="https://download.nodd.dev/llm-eval-harness-screenshot.png" width="31%" alt="LLM Eval Harness screenshot" />
+</p>
 
 ---
 
