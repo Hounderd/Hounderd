@@ -12,7 +12,6 @@ AI and systems engineer based in Wisconsin. I build tools, utilities, and automa
 | [smart-thermostat](https://github.com/Hounderd/smart-thermostat) | Production-grade Raspberry Pi thermostat with adaptive climate logic, IAQ sensing, and a React dashboard |
 | [sentinel-watch](https://github.com/Hounderd/sentinel-watch) | LAN uptime monitor with latency tracking, webhook alerts, and per-device heatmaps |
 | [llm-eval-harness](https://github.com/Hounderd/llm-eval-harness) | Batch LLM evaluation pipeline for correctness, coherence, and safety scoring |
-| [spt-fika-autoupdater](https://github.com/Hounderd/spt-fika-autoupdater) | Update utility for SPT-Fika offline Tarkov environments |
 
 ## Stack
 
@@ -42,5 +41,4 @@ AI and systems engineer based in Wisconsin. I build tools, utilities, and automa
   &nbsp;·&nbsp;
   <a href="https://guard.nodd.dev">guard.nodd.dev</a>
   &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/donovan-wright-93364a28/">LinkedIn</a>
 </p>
