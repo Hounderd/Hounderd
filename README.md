@@ -40,5 +40,4 @@ AI and systems engineer based in Wisconsin. I build tools, utilities, and automa
   <a href="https://portfolio.nodd.dev">portfolio.nodd.dev</a>
   &nbsp;·&nbsp;
   <a href="https://guard.nodd.dev">guard.nodd.dev</a>
-  &nbsp;·&nbsp;
 </p>
